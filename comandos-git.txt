@@ -26,3 +26,6 @@ ex: depois que foi feito git add .
 
 ## Comando git push
 - Envia as modificações para o repositório na nuvem, é usado para enviar todas as modificações feitas no repositório local.
+
+## Comando git pull
+- Baixa as informações mais atuais do repositório remoto para repositório local.
