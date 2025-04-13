@@ -1,0 +1,11 @@
+## Comando git init (iniciando git no repositório)
+- O comando git init, inicia um repositório git dentro do projeto, ou seja toda vez que é rodado esse comando o projeto passa a ter o git nele.
+
+## Comando git status (verifica o status do arquivo, pasta etc.)
+- Este comando verifica o status de um arquivo e suas mudanças. Além dessa verificação ele analisa em qual estado está esse arquivo.
+
+## Comando git add e git add . (coloca o arquivo em outro estado)
+- O comando git add (nome do arquivo), coloca o arquivo em um novo status antes de ser comitado as modificações.
+
+## Comando git diff (analise mais detalhada)
+- O comando verifica em qual linha e qual lugar do arquivo foi alteradas.
