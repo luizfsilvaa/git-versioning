@@ -5,5 +5,5 @@
 
 ### Comandos básicos
 ```
-git init, git add, git status, git commit etc.
+git init, git add, git status, git commit, git log, git restore, etc.
 ```

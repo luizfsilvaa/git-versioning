@@ -23,3 +23,6 @@
 - Este comando volta ao estado anterior, depois que você já adicionou na area antes de ser comitado.
 
 ex: depois que foi feito git add . 
+
+## Comando git push
+- Envia as modificações para o repositório na nuvem, é usado para enviar todas as modificações feitas no repositório local.
