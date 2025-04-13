@@ -9,3 +9,17 @@
 
 ## Comando git diff (analise mais detalhada)
 - O comando verifica em qual linha e qual lugar do arquivo foi alteradas.
+
+## Comando git commit -m "mensagem do commit"
+- Comando para registrar a alteração e realizar uma documentação do que foi feito.
+
+## Comando git log
+- O comando git log, ele basicamente mostrar o histórico de commits, bem como autor e hora do ultimo commit, assim tendo um log do que está acontecendo.
+
+## Comando git restore
+- O comando git restore, ele consegue voltar ao status anterior das modificações.
+
+## Comando git restore --staged
+- Este comando volta ao estado anterior, depois que você já adicionou na area antes de ser comitado.
+
+ex: depois que foi feito git add . 
