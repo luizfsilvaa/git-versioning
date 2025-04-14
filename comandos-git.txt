@@ -38,3 +38,6 @@ ex: depois que foi feito git add .
 
 ## Arquivo git
 - O arquivo .gitignore, é um arquivo que serve para ignorar arquivos pastas, para subir ao servidor remoto. 
+
+## Comando git merge (nome da outra branch)
+- O Comando tem objetivo de mesclar, ou seja juntar as ramificações e ficar na principal.
