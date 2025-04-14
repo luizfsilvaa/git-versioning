@@ -29,3 +29,9 @@ ex: depois que foi feito git add .
 
 ## Comando git pull
 - Baixa as informações mais atuais do repositório remoto para repositório local.
+
+## Comando git branch (nome da branch)
+- Esse comando serve para criar novas ramificações do projeto, sem estar o tempo todo na branch principal.
+
+## Comando git checkout (nome da branch)
+- Este comando troca de uma branch para outra.
