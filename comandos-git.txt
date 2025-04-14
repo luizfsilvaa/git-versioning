@@ -35,3 +35,6 @@ ex: depois que foi feito git add .
 
 ## Comando git checkout (nome da branch)
 - Este comando troca de uma branch para outra.
+
+## Arquivo git
+- O arquivo .gitignore, é um arquivo que serve para ignorar arquivos pastas, para subir ao servidor remoto. 
